@@ -2,7 +2,7 @@
 
 Esta aplicacion usa:
 
--ASP.NET\n 
+-ASP.NET/n 
 -AZURE 
 -BOOTSTRAP 
 -XML
