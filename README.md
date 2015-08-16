@@ -1,2 +1,10 @@
 # otomi
-Traductor ASP.NET AZURE BOOTSTRAP XML
+
+Esta aplicacion usa:
+
+ASP.NET 
+AZURE 
+BOOTSTRAP 
+XML
+JQUERY
+
